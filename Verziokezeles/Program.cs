@@ -10,7 +10,8 @@ namespace Verziokezeles
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Program vége!");
+            Console.ReadKey();
         }
     }
 }
